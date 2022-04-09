@@ -1,0 +1,5 @@
+# Ignore JetBrains IDEA Folder
+.idea/
+# Ignore VSCodium / Visual Studio Code Folder + WorkSpace Files
+.vscode/
+*.code-workspace
