@@ -3,3 +3,5 @@
 # Ignore VSCodium / Visual Studio Code Folder + WorkSpace Files
 .vscode/
 *.code-workspace
+# Ignore other .git folders
+**/.git
