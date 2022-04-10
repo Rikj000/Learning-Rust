@@ -1,5 +1,5 @@
 [package]
-name = "Rust-Book-Chapter-3-1"
+name = "rust_book_chapter_3_1"
 version = "0.1.0"
 edition = "2021"
 
