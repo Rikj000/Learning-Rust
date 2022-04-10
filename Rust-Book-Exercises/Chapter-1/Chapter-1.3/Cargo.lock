@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Rust-Book-Exercises"
+name = "Rust-Book-Chapter-1-3"
 version = "0.1.0"

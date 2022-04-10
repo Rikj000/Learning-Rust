@@ -1,5 +1,5 @@
 [package]
-name = "guessing_game"
+name = "Rust-Book-Chapter-2"
 version = "0.1.0"
 edition = "2021"
 
