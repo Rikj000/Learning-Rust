@@ -7,3 +7,5 @@
 **/.git
 # Ignore cargo target build folders
 **/target/
+# Ignore Rustlings source folder
+Rustlings/
