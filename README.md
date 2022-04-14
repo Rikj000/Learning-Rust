@@ -15,3 +15,5 @@
 A collection of [`rust`](https://www.rust-lang.org/) solutions for the exercises found in:
 - [📘 The Rust Book](https://doc.rust-lang.org/book/title-page.html)
 - [🦀 The Rustlings Course](https://github.com/rust-lang/rustlings)
+
+**Status:** `On-going` *(I will add more solutions as I work my way through both courses)*
